@@ -1,2 +1,5 @@
 # LinearRegression
-Artificial Intelligence 2 Assignment 1
+Linear and Polynomial Regression <br />
+<img src="https://github.com/nikiibayat/LinearRegression/blob/master/images/training_data_visulization.png?raw=true"
+     alt="Training Data"
+     style="float: left; margin-right: 10px;" />
