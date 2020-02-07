@@ -1,5 +1,4 @@
-# LinearRegression
-## Linear and Polynomial Regression <br />
+# Linear and Polynomial Regression <br />
 <img src="https://github.com/nikiibayat/LinearRegression/blob/master/images/training_data_visulization.png?raw=true"
      alt="Training Data"
      style="float: left; margin-right: 10px;" />
@@ -22,5 +21,5 @@
      alt="5th order regression with regularization on test set"
      style="float: right; margin-right: 10px;" />
 
-# Train Error = 0.924
-# Test Error = 1.144
+### Train Error = 0.924
+### Test Error = 1.144
